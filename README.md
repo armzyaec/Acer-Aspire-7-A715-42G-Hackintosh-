@@ -1,7 +1,7 @@
-# macOS on Acer Aspire 7 A715-42G - Ryzen 5 5500U & GTX 1650
+# [unsuccessful] macOS on Acer Aspire 7 A715-42G - Ryzen 5 5500U & GTX 1650 { Discontinued }
 
  Acer Aspire 7 A715-42G Opencore EFI and some info for running macOS Ventura 13.6.1.
-If someone succeeds Leave a comment and tell me if you want to try it.hahaha
+  If someone succeeds Leave a comment and tell me if you want to try it hahaha
 
 ![info](https://github.com/armzyaec/Acer-Aspire-7-A715-42G-Hackintosh-/blob/main/Screenshot%202566-11-24%20at%2014.57.18.png?raw=true)
 
